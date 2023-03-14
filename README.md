@@ -1,6 +1,7 @@
 # Rubiks Cube A* Solver
 
 This is a Python implementation of a solver for Rubik's Cube using the A* search algorithm. It includes a graphical user interface (GUI) that allows the user to manipulate and solve the cube step-by-step.
+ 
 <img src="https://user-images.githubusercontent.com/75742343/225010427-484405bd-2d70-4910-a9ba-989a9c6897a0.png" width=50% height=50%>
 
 ## Requirements
