@@ -46,6 +46,7 @@ python main.py
     - `f` : Front face, clockwise
     - `s` : Standing slice, clockwise
     - `b` : Back face, counterclockwise
+    - Use `shift` before and while pressing the keys, to reverse the direction
 2. Click the "solve" button to solve the Rubik's Cube using the A* search algorithm.
 3. Click the "next move" button to step through the solution move by move.
 4. Observe the 3D animation of the Rubik's Cube and the console output of the moves made during the solution process.
