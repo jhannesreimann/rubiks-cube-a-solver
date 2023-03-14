@@ -32,7 +32,17 @@ pip install -r requirements.txt
 ## Usage
 
 To run the program, execute the following command in the terminal:
-
 ```bash
 python main.py
 ```
+
+1. Use the keyboard to manually twist the Rubik's Cube or randomly scramble it using the button "Random"
+  - `u`: Upper face, clockwise
+  - e: Equator, counterclockwise
+  - d: Down face, counterclockwise
+  - l: Left face, counterclockwise
+  - m: Middle slice, counterclockwise
+  - r: Right face, clockwise
+  - f: Front face, clockwise
+  - s: Standing slice, clockwise
+  - b: Back face, counterclockwise
