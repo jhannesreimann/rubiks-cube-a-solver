@@ -9,7 +9,7 @@ This is a Python implementation of a solver for Rubik's Cube using the A* search
 
 - Python 3.x
 - Urina
-- iqdm
+- tqdm
 
 ## Features
 
